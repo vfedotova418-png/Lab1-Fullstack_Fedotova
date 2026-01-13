@@ -1,0 +1,15 @@
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\bin\Debug\net9.0\backend.exe
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\bin\Debug\net9.0\backend.deps.json
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\bin\Debug\net9.0\backend.dll
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\bin\Debug\net9.0\backend.pdb
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.dll
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.pdb
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Колледж\ISRPO\Lab1_ISRPO_Fedotova\backend\obj\Debug\net9.0\ref\backend.dll
